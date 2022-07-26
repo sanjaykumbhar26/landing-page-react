@@ -85,7 +85,7 @@ npm start
 - [i18next][i18next] - Internationalization-framework written in and for JavaScript.
 
 ## buymeacoffee
-![buymeacoffee](https://www.buymeacoffee.com/websanju?new=1)
+[buymeacoffee](https://www.buymeacoffee.com/websanju?new=1)
 
 
 Licensed under the MIT license.

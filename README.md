@@ -84,6 +84,8 @@ npm start
 - [styled-componets][styled-componets] - Variant on “CSS-in-JS”—which solves many of the problems with traditional CSS.
 - [i18next][i18next] - Internationalization-framework written in and for JavaScript.
 
-## License
+## buymeacoffee
+![buymeacoffee](https://www.buymeacoffee.com/websanju?new=1)
+
 
 Licensed under the MIT license.

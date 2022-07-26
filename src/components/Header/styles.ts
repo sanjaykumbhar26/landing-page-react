@@ -4,6 +4,7 @@ import { MenuOutlined } from "@ant-design/icons";
 
 export const HeaderSection = styled("header")`
   padding: 1rem 0.5rem;
+  background-color:#f2f2f2;
 
   .ant-row-space-between {
     align-items: center;
@@ -33,7 +34,7 @@ export const CustomNavLink = styled("div")`
   }
 `;
 
-export const ContactWrapper = styled("div")<any>`
+export const ContactWrapper = styled("div") <any>`
   cursor: pointer;
   width: ${(p) => (p.width ? "100%" : "110px")};
   font-weight: 700;
@@ -86,7 +87,7 @@ export const Label = styled("span")`
   align-items: baseline;
 `;
 
-export const Outline = styled(MenuOutlined)<any>`
+export const Outline = styled(MenuOutlined) <any>`
   font-size: 22px;
 `;
 
